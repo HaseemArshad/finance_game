@@ -39,9 +39,7 @@ Spend Money (increase happiness) Choose an action (1/2/3): 1 You saved your mone
 
 ## How to Run
 
-1. Clone this repository:
-   git clone https://github.com/your-username/finance-game.git
-   cd finance-game
+1. Clone this repository
 2. Run the game
    
 
